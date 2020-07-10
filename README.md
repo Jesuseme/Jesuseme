@@ -1,10 +1,8 @@
 # Jesuseme 
-/n
-/n
+
 Front-End Web Developer, Learning to Python(Django) and Node.js.         
 Very Fluent in Vanilla CSS, JQuery, Bootstrap, python, Javascript, SQL.  
-/n
-/n
+
 
 # Contact
 Twitter: https://twitter.com/Entitled_Native
