@@ -1,7 +1,7 @@
 # Jesuseme :space_invader:
 
 ###  Front-End Web Developer,          
-   * Very Fluent in CSS, JQuery, Bootstrap, Python, Javascript, SQL.  
+   * Proficiency in CSS, JQuery, Bootstrap, Python, Javascript, SQL.  
    * Learning to Python(Django) and Node.js.
    * currently Freelancing and working on personal projects.*
 
