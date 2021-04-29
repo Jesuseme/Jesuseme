@@ -1,7 +1,7 @@
 # Jesuseme :space_invader:
 
 ###  Software Developer,          
-   * Proficiency in Wordpress, JQuery, Bootstrap, Python, Javascript, SQL.  
+   * Proficiency PHP, Python, Javascript, SQL.  
    * Learning to Python(Django) and Node.js.
    * currently working on personal projects.*
 
